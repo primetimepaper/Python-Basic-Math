@@ -1,4 +1,4 @@
-# Python-Basic-Math
+# Python Basic Data Representation
 Basic Python programs increasing quality of life.
 
 ### WIP
