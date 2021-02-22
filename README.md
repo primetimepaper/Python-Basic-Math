@@ -1,5 +1,5 @@
 # Python Basic Data Representation
-Basic Python programs increasing quality of life.
+Basic Python programs improving quality of life.
 
 ### WIP
 #### Coming Soon
